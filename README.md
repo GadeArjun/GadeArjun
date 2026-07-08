@@ -87,7 +87,7 @@ Currently a **MERN Stack Developer Intern at LSOYS Games & Apps**, contributing 
 ### 🎯 SlideAI — AI PowerPoint Presentation Generator
 > **The most architecturally ambitious project in this portfolio — a full agentic generation pipeline.**
 
-[![Live](https://img.shields.io/badge/🌐%20Live%20Demo-slideai--h19h.onrender.com-7c3aed?style=flat-square)](https://slideai-h19h.onrender.com/)
+[![Live](https://img.shields.io/badge/🌐%20Live%20Demo-slideai--two.vercel.app-7c3aed?style=flat-square)](https://slide-ai-two.vercel.app/)
 [![Repo](https://img.shields.io/badge/GitHub-SlideAI-181717?style=flat-square&logo=github)](https://github.com/GadeArjun/SlideAI)
 ![JS](https://img.shields.io/badge/JavaScript-98.1%25-F7DF1E?style=flat-square&logo=javascript)
 
@@ -106,7 +106,7 @@ An **AI-driven MERN platform** that converts a single text prompt into a fully d
 ### 📹 MeetFlow — Real-Time Video Meeting Platform
 > **Production-deployed video conferencing built from scratch, Zoom-style.**
 
-[![Live](https://img.shields.io/badge/🌐%20Live%20Demo-meetflow--3mv5.onrender.com-7c3aed?style=flat-square)](https://meetflow-3mv5.onrender.com/)
+[![Live](https://img.shields.io/badge/🌐%20Live%20Demo-meet-flow-puce.verlcel.app-7c3aed?style=flat-square)](https://meet-flow-puce.vercel.app//)
 [![Repo](https://img.shields.io/badge/GitHub-MeetFlow-181717?style=flat-square&logo=github)](https://github.com/GadeArjun/MeetFlow)
 ![JS](https://img.shields.io/badge/JavaScript-62.8%25-F7DF1E?style=flat-square&logo=javascript)
 ![CSS](https://img.shields.io/badge/CSS-35.7%25-1572B6?style=flat-square&logo=css3)
@@ -146,7 +146,7 @@ A **Next.js + Socket.IO** anonymous chat app built on a simple rule: no auth, no
 ### 🌍 TravelBuddy — Real-Time Travel & Social Companion Platform
 > **Social travel networking with live chat, matchmaking, and trip planning.**
 
-[![Live](https://img.shields.io/badge/🌐%20Live%20Demo-travelbuddy--6d2b.onrender.com-7c3aed?style=flat-square)](https://travelbuddy-6d2b.onrender.com/)
+[![Live](https://img.shields.io/badge/🌐%20Live%20Demo-travel-buddy-dest.vercel.app-7c3aed?style=flat-square)](https://travel-buddy-dest.vercel.app/)
 [![Repo](https://img.shields.io/badge/GitHub-TravelBuddy-181717?style=flat-square&logo=github)](https://github.com/GadeArjun/TravelBuddy)
 ![JS](https://img.shields.io/badge/JavaScript-65.6%25-F7DF1E?style=flat-square&logo=javascript)
 ![CSS](https://img.shields.io/badge/CSS-34.0%25-1572B6?style=flat-square&logo=css3)
@@ -265,10 +265,10 @@ A **Tkinter + SQLite** desktop app for managing books, student borrow records, a
 
 | Repository | Description | Tech | Live |
 |---|---|---|---|
-| [**SlideAI**](https://github.com/GadeArjun/SlideAI) | AI-powered PPT generator with an agentic pipeline | MERN · Socket.IO · AI Agents | [🌐](https://slideai-h19h.onrender.com/) |
-| [**MeetFlow**](https://github.com/GadeArjun/MeetFlow) | Video conferencing platform (Zoom-like) | WebRTC · Socket.IO · MERN | [🌐](https://meetflow-3mv5.onrender.com/) |
+| [**SlideAI**](https://github.com/GadeArjun/SlideAI) | AI-powered PPT generator with an agentic pipeline | MERN · Socket.IO · AI Agents | [🌐](https://slide-ai-two.vercel.app/) |
+| [**MeetFlow**](https://github.com/GadeArjun/MeetFlow) | Video conferencing platform (Zoom-like) | WebRTC · Socket.IO · MERN | [🌐](https://meet-flow-puce.vercel.app//) |
 | [**Nebulachat**](https://github.com/GadeArjun/Nebulachat) | Anonymous ephemeral chat, no DB | Next.js · Socket.IO | [🌐](https://nebulachat.onrender.com/) |
-| [**TravelBuddy**](https://github.com/GadeArjun/TravelBuddy) | Real-time social travel companion platform | MERN · Socket.IO | [🌐](https://travelbuddy-6d2b.onrender.com/) |
+| [**TravelBuddy**](https://github.com/GadeArjun/TravelBuddy) | Real-time social travel companion platform | MERN · Socket.IO | [🌐](https://travel-buddy-dest.vercel.app/) |
 | [**market-mint**](https://github.com/GadeArjun/market-mint) | AI lead-discovery platform for agencies | MERN · Cheerio · Recharts | [🌐](https://marketmint-vert.vercel.app/) |
 | [**career-finder**](https://github.com/GadeArjun/career-finder) | AI career guidance for students/colleges/companies | MERN · Groq SDK | [🌐](https://careerfinder-qbs2.onrender.com/) |
 | [**Library-Management-System**](https://github.com/GadeArjun/Library-Management-System) | Desktop GUI + Telegram bot reminders | Python · Tkinter · SQLite | — |

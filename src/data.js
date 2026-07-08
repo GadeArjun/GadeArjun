@@ -129,7 +129,7 @@ export const projects = [
       "A travel and social networking platform that matches solo travelers heading to the same destination, with destination-based discovery, real-time chat, and join-request workflows on a modular Express backend.",
     tech: ["React", "Vite", "Node.js", "Express", "MongoDB", "Socket.IO", "JWT", "Context API"],
     github: "https://github.com/GadeArjun/TravelBuddy",
-    demo: "https://meet-flow-puce.vercel.app/",
+    demo: "https://travel-buddy-dest.vercel.app/",
     status: "live",
   },
 ];
