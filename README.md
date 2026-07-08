@@ -106,7 +106,7 @@ An **AI-driven MERN platform** that converts a single text prompt into a fully d
 ### 📹 MeetFlow — Real-Time Video Meeting Platform
 > **Production-deployed video conferencing built from scratch, Zoom-style.**
 
-[![Live](https://img.shields.io/badge/🌐%20Live%20Demo-meet-flow-puce.verlcel.app-7c3aed?style=flat-square)](https://meet-flow-puce.vercel.app//)
+[![Live](https://img.shields.io/badge/🌐%20Live%20Demo-meet-flow--puce.verlcel.app-7c3aed?style=flat-square)](https://meet-flow-puce.vercel.app//)
 [![Repo](https://img.shields.io/badge/GitHub-MeetFlow-181717?style=flat-square&logo=github)](https://github.com/GadeArjun/MeetFlow)
 ![JS](https://img.shields.io/badge/JavaScript-62.8%25-F7DF1E?style=flat-square&logo=javascript)
 ![CSS](https://img.shields.io/badge/CSS-35.7%25-1572B6?style=flat-square&logo=css3)
@@ -146,7 +146,7 @@ A **Next.js + Socket.IO** anonymous chat app built on a simple rule: no auth, no
 ### 🌍 TravelBuddy — Real-Time Travel & Social Companion Platform
 > **Social travel networking with live chat, matchmaking, and trip planning.**
 
-[![Live](https://img.shields.io/badge/🌐%20Live%20Demo-travel-buddy-dest.vercel.app-7c3aed?style=flat-square)](https://travel-buddy-dest.vercel.app/)
+[![Live](https://img.shields.io/badge/🌐%20Live%20Demo-travel-buddy--dest.vercel.app-7c3aed?style=flat-square)](https://travel-buddy-dest.vercel.app/)
 [![Repo](https://img.shields.io/badge/GitHub-TravelBuddy-181717?style=flat-square&logo=github)](https://github.com/GadeArjun/TravelBuddy)
 ![JS](https://img.shields.io/badge/JavaScript-65.6%25-F7DF1E?style=flat-square&logo=javascript)
 ![CSS](https://img.shields.io/badge/CSS-34.0%25-1572B6?style=flat-square&logo=css3)
