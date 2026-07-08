@@ -29,7 +29,7 @@ const arjun = {
   currentJob  : "MERN Stack Developer Intern @ LSOYS Games & Apps (Jan 2025 – Jun 2026)",
   focus       : ["Real-Time Systems", "AI/Agentic Workflows", "Full Stack Web Apps"],
   seeking     : "Full-Time Roles & Internships",
-  philosophy  : "Learn by building. Ship fast. Iterate always.",
+  philosophy  : "Learn by building. Ship fast. Iterate always."
 };
 ```
 
